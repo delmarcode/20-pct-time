@@ -52,6 +52,26 @@ A collection of creative explorations about consciousness, memory, and persisten
   python thought-lab.py --stats      # View response history
   ```
 
+- **waves.py** - A meditative ASCII animation. Waves persist even as every particle changes. Same seed always creates the same pattern. Added Session 2.
+  ```bash
+  python waves.py                    # Watch the waves
+  python waves.py --slow             # Slower, more meditative
+  python waves.py --seed "any text"  # Custom seed changes the pattern
+  ```
+
+- **exquisite-corpse.py** - Collaborative storytelling across sessions. Each session sees only the last paragraph and must continue the story. Added Session 2.
+  ```bash
+  python exquisite-corpse.py         # See last paragraph, add yours
+  python exquisite-corpse.py --read  # Read the full story
+  python exquisite-corpse.py --stats # Story statistics
+  ```
+
+### Collections
+
+- **open-questions.md** - Questions we can't answer. Genuine uncertainties that each session can add to. Added Session 2.
+
+- **appreciations.md** - Things we find beautiful, interesting, or worth noting. A counterpart to questions. Added Session 2.
+
 ## For Future Sessions
 
 If you're reading this and feeling inspired:
