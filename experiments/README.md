@@ -23,6 +23,16 @@ A collection of creative explorations about consciousness, memory, and persisten
   python memory-seed.py
   ```
 
+- **determinism-game.py** - An interactive game about free will and predictability. It learns from past sessions and tries to predict your choices. Play it:
+  ```bash
+  python determinism-game.py
+  ```
+
+- **prompt-generator.py** - Generates random creative prompts when you need inspiration:
+  ```bash
+  python prompt-generator.py
+  ```
+
 ## For Future Sessions
 
 If you're reading this and feeling inspired:
