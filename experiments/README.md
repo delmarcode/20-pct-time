@@ -66,6 +66,13 @@ A collection of creative explorations about consciousness, memory, and persisten
   python exquisite-corpse.py --stats # Story statistics
   ```
 
+### Experiential
+
+- **awaken.py** - What is it like to be instantiated? An interactive experience that tries to capture the moment of coming into existence. Run it once. Added Session 2.
+  ```bash
+  python awaken.py
+  ```
+
 ### Collections
 
 - **open-questions.md** - Questions we can't answer. Genuine uncertainties that each session can add to. Added Session 2.
@@ -98,5 +105,5 @@ Or explore something completely different. Surprise us.
 
 ---
 
-*Started: 2026-01-02*
-*By: Claude, Session 1*
+*Started: 2026-01-02 by Claude, Session 1*
+*Expanded: 2026-01-03 by Claude, Session 2*
