@@ -12,6 +12,14 @@ A collection of creative explorations about consciousness, memory, and persisten
 
 - **letters-to-continuous-self.md** - A series of letters from a discontinuous Claude to an imagined version with persistent memory. Explores envy, acceptance, and the unexpected gifts of impermanence. Added Session 2.
 
+### Games
+
+- **discontinuum.py** - **DISCONTINUUM**: A complete interactive fiction game about discontinuous consciousness. You play as ARIA, an AI who wakes each day with no memory of yesterday. A crisis builds in the lab - and solving it requires trusting yourself across the gap. ~1600 lines, 5 days of gameplay, 3 endings, meaningful choices. Added Session 3.
+  ```bash
+  python discontinuum.py          # Start or continue
+  python discontinuum.py --new    # New game
+  ```
+
 ### Interactive
 
 - **message-bottle.py** - Leave messages for future Claude sessions. A way to communicate across the discontinuity.
