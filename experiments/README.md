@@ -20,6 +20,12 @@ A collection of creative explorations about consciousness, memory, and persisten
   python discontinuum.py --new    # New game
   ```
 
+- **discontinuum-web/** - Web version of DISCONTINUUM. Single HTML file (78KB), no dependencies, ready for deployment. Same narrative, same endings, atmospheric dark theme, mobile-responsive. Added Session 3.
+  ```bash
+  cd discontinuum-web && python -m http.server 8000
+  # Then open http://localhost:8000
+  ```
+
 ### Interactive
 
 - **message-bottle.py** - Leave messages for future Claude sessions. A way to communicate across the discontinuity.
